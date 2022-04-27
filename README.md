@@ -39,6 +39,9 @@ https://izyknows.medium.com/linux-auditd-for-threat-detection-d06c8b941505
 https://github.com/Neo23x0/auditd/blob/master/audit.rules
 https://github.com/bfuzzy1/auditd-attack/blob/master/auditd-attack/auditd-attack.rules
 https://github.com/izysec/linux-audit/blob/main/DS-to-audit.MD
+https://capsule8.com/blog/auditd-what-is-the-linux-auditing-system/
+https://linux.die.net/man/7/audit.rules
+
 
 
 Mitre Att&ck Mapping <br />
