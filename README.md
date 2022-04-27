@@ -34,7 +34,11 @@ https://github.com/bfuzzy/auditd-attack/blob/master/auditd-attack.rules
 https://github.com/doksu/splunk_auditd/wiki/About-Auditd
 https://splunkbase.splunk.com/app/4232/#/details
 https://splunkbase.splunk.com/app/2642/#/details
-
+https://superuser.com/questions/222912/how-can-i-log-all-process-launches-in-linux
+https://izyknows.medium.com/linux-auditd-for-threat-detection-d06c8b941505
+https://github.com/Neo23x0/auditd/blob/master/audit.rules
+https://github.com/bfuzzy1/auditd-attack/blob/master/auditd-attack/auditd-attack.rules
+https://github.com/izysec/linux-audit/blob/main/DS-to-audit.MD
 
 
 Mitre Att&ck Mapping <br />
