@@ -54,3 +54,8 @@ APT and Lateral Movement <br />
 ######################### <br />
 
 https://www.first.org/resources/papers/conf2017/APT-Log-Analysis-Tracking-Attack-Tools-by-Audit-Policy-and-Sysmon.pdf
+
+Comparing Methods <br />
+################## <br />
+
+https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/
