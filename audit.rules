@@ -29,6 +29,10 @@
 #               https://github.com/linux-audit/audit-userspace/blob/master/rules/30-nispom.rules
 # 
 # Also based on audit rules from - https://github.com/bfuzzy/auditd-attack/blob/master/auditd-attack.rules
+#
+# Modified by Ted Skinner
+# October 2, 2022
+# Merged Florian Roth's rules with uncovered Mitre rules included in bfuzzy's rule set hosted the github above
 
 
 # auditd-attack
